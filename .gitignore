@@ -1,0 +1,8 @@
+# Claude Code
+.claude/
+
+# IntelliJ
+.idea/workspace.xml
+
+# macOS
+.DS_Store
